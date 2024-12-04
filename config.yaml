@@ -1,0 +1,15 @@
+# Path to your PDF file
+pdf_file: ""
+
+# Path to your Google Cloud JSON key
+json_key_path: ""
+
+# Directories for output
+images_output_directory: "processed_images"
+texts_output_directory: "extracted_texts"
+
+# Starting page for counter
+starting_page: 3
+
+# Margin to crop on left and right
+crop_margin: 60
