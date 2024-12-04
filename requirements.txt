@@ -1,0 +1,8 @@
+google-cloud-vision
+google-auth
+PyMuPDF
+Pillow
+opencv-python
+numpy
+langdetect
+transformers

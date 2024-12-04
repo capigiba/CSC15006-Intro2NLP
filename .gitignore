@@ -1,0 +1,7 @@
+/temp
+venv/
+*.pyc
+__pycache__/
+config.yaml
+extracted_texts
+processed_images
